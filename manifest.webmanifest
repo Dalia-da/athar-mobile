@@ -1,0 +1,11 @@
+{
+  "name": "أَثَر",
+  "short_name": "أثر",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060e0a",
+  "theme_color": "#060e0a",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "تطبيق إسلامي - صدقة جارية عن أحمد جاد"
+}

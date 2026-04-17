@@ -1,0 +1,8 @@
+{
+  "name": "athar-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "65c93728"
+}
